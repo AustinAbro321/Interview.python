@@ -1,5 +1,5 @@
 # Interview in cyber-dojo
-This repo provides a way to easily create interview in cyber-dojo.
+This repo provides a way to easily create an interview question in cyber-dojo.
 The content of the code was taken from [@isidore](https://github.com/isidore/) [interview repository](https://github.com/isidore/Interview.Python)
 
 # Setup in cyber-dojo
